@@ -17,11 +17,11 @@ The results from 2018 return analysis were not as good compared to 2017
 	- The other 10 were in the red
 ### Added a script to expand the search
 	- Results from 2017 using the script to only include the 12 stock tickers was a little faster compared to looking for all tickers.
- [Result from original VBA Script for 2017]\resources\VBA_Challenge_2017 - 1.png
- [Result from refractor VBA Script for 2017]\resources\VBA_Challenge_2017 - 2.png
+ ![Result from original VBA Script for 2017]\resources\VBA_Challenge_2017 - 1.png
+ ![Result from refractor VBA Script for 2017]\resources\VBA_Challenge_2017 - 2.png
 	- Results from 2018 using the script to only include the 12 stock tickers was a little faster compared to looking for all tickers.
- [Result from original VBA Script for 2018]\resources\VBA_Challenge_2018 - 1.png
- [Result from refractor VBA Script for 2018]\resources\VBA_Challenge_2018 - 2.png
+ ![Result from original VBA Script for 2018]\resources\VBA_Challenge_2018 - 1.png
+ ![Result from refractor VBA Script for 2018]\resources\VBA_Challenge_2018 - 2.png
 
 ## Summary
 ### Advantage of refactoring code
