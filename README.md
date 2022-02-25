@@ -3,7 +3,8 @@
 ## Overview of Project
 
 Refactor an Excel Workbook using VBA to expand stocks
-*** 2nd Submission. Refactored again to make sure the array variables created and in the right place ***
+
+***2nd Submission. Refactored again to make sure the array variables were created and in the right location in the script***
 
 ## Results
 
