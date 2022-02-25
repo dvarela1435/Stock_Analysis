@@ -18,12 +18,12 @@ The results from 2018 return analysis were not as good compared to 2017
 - The other 10 were in the red
 ### Added a script to expand the search
 
-- Results from 2017 using the script to only include the 12 stock tickers (first image) was a little faster compared to looking for all tickers (second image).
+- Results from 2017 from original script (first image) to the refactored script (second image), the second script was faster by 0.2890625 seconds. It does not seem fast, but when there are more rows of data, it will significantly improve the time.
  
  ![Result from original VBA Script for 2017](/Resources/VBA_Challenge_2017-1.png)
  ![Result from refractor VBA Script for 2017](/Resources/VBA_Challenge_2017-2.png)
 	
-- Results from 2018 using the script to only include the 12 stock tickers (first image) was a little faster compared to looking for all tickers (second image).
+- Results from 2017 from original script (first image) to the refactored script (second image), the second script was faster by 0.265625 seconds. Same as the statement before. It will greatly improve performance with more data.
  
  ![Result from original VBA Script for 2018](Resources/VBA_Challenge_2018-1.png)
  ![Result from refractor VBA Script for 2018](Resources/VBA_Challenge_2018-2.png)
